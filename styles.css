@@ -1,9 +1,14 @@
 
-<!--.jumbotron h1 {
+/*.jumbotron h1 {
 margin-right: auto;
 margin-left: auto;
 color: #5a5a5a;
-} -->
+} */
+
+.jumbotron {
+  height:500px;
+  background-image: url('http://goo.gl/04j7Nn');
+}
 
 .nav li {
   color: #5a5a5a;
