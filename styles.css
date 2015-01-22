@@ -4,8 +4,7 @@ margin-right: auto;
 margin-left: auto;
 color: #5a5a5a;
 }
-
-.nav a {
+.nav li {
   color: #5a5a5a;
   font-size: 54px;
   font-weight: bold;
