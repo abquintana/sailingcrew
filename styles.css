@@ -2,5 +2,16 @@
 .jumbotron h1 {
 margin-right: auto;
 margin-left: auto;
-color: red;
+color: #5a5a5a;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 14px;
+  font-weight: bold;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-transform: uppercase;
 }
