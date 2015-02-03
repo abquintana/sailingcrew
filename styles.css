@@ -12,6 +12,7 @@ color: #5a5a5a;
 }
 
 .nav li {
+  display: inline;
   color: #5a5a5a;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
