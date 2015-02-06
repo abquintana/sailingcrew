@@ -11,7 +11,7 @@ color: #262626;
   background-image: url('sailing1_500x500.png');
 }
 
-.jumbotron .container-fluid {
+.jumbotron .container {
   position: relative;
   top: 100px;
 }
