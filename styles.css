@@ -11,6 +11,11 @@ color: #5a5a5a;
   background-image: url('sailing1_500x500.png');
 }
 
+.jumbotron .container {
+  position: relative;
+  top: 100px;
+}
+
 .nav li {
   display: inline;
   color: #5a5a5a;
