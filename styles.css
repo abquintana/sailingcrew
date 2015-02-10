@@ -6,9 +6,9 @@ margin-left: auto;
 color: #262626;
 } 
 
-.jumbotron {
+/*.jumbotron {
   height:500px;
-  background-image: url('sailing1_500x500.png');
+  background-image: url('sailing1_500x500.png'); */
 }
 
 .jumbotron .container {
