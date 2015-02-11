@@ -32,3 +32,13 @@ color: #262626;
   padding-right: 10px;
   text-transform: uppercase;
 }
+
+.bio p {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #869DAB;
+}
