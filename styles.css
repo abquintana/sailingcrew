@@ -38,20 +38,7 @@ color: #262626;
   color: #70818F;
 }
 
-.bigphoto {
-  height: 750px;
-  max-width: 100%;
-  min-height: 90%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  position: relative;
-  z-index: 1;
-  top: 150px;
-  bottom: 25px;
+.row {
+  top: 25px;
 }
 
-.photo1 {
-  background: url('Optimized-Alex Skipper.png');
-  background-repeat: no-repeat;
-  bottom: 25px;
-}
