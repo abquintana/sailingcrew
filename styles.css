@@ -39,8 +39,7 @@ color: #262626;
 }
 
 .bigphoto {
-  height: 100%;
-  position: absolute;
+  height: 750px;
   max-width: 100%;
   min-height: 90%;
   background-size: cover;
